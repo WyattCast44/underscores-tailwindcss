@@ -21,7 +21,7 @@
         "cross-env": "^7.0.2",
         "dir-archiver": "^1.1.1",
         "laravel-mix": "^5.0.4",
-        "node-sass": "^4.14.0",
+        "node-sass": "^7.0.0",
         "rtlcss": "^2.5.0",
         "sass": "^1.26.10",
         "sass-loader": "^8.0.2"
