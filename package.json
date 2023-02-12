@@ -17,7 +17,7 @@
         "url": "https://github.com/Automattic/_s/issues"
     },
     "devDependencies": {
-        "@wordpress/scripts": "^9.0.0",
+        "@wordpress/scripts": "^25.3.0",
         "cross-env": "^7.0.2",
         "dir-archiver": "^1.1.1",
         "laravel-mix": "^5.0.4",
